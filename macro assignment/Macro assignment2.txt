@@ -1,0 +1,89 @@
+macro assignment
+
+restaurant management system
+
+modules
+
+1.table booking
+2.menu
+3.cheff team
+4.order placing
+5.manager
+6.billing
+
+Table booking
+-------------
+
+
+Step1: Start
+Step2: Declare the table slots
+Step3: Call the restaurant for booking the table
+Step4: If the table is available make a reservation at a particular time
+Step5: Otherwise there are no slots at that time
+Step6: print the reserved table number and time
+Step7: Stop
+
+
+
+Menu
+-----
+
+
+Step1: Start
+Step2: Declare the menu card
+Step3: Read the available food items like Veg, Non veg, Starters, Chinese items, Ice creams, Mocktails
+Step4: Check the food item is available or not which is placed by a customer
+Step5: If it is available then place the order and go to step7
+Step6: Otherwise say currently this item is not available at this moment or place another item
+Step7: Repeat step4,5 until total orders received
+Step8: Print total orders
+Step9: Stop
+
+
+
+Chef team
+---------
+
+
+Step1: Start
+Step2: Declare total number of orders
+Step3: Read the total number of orders received by the customer
+Step4: If the number of orders received then prepare the item according to the certain order, the item which is prepared by the chef is given to the waiter
+Step5: Otherwise no orders received to prepare go to 
+Step6: Stop
+
+
+Order placing
+-------------
+
+
+Step1: Start
+Step2: Declare food item
+Step3: Read the food item that which has been placed by particular table number
+Step4: The prepared food item is placed to the table
+Step5: otherwise once check the table number again
+Step6: Stop
+
+
+
+Manager
+-------
+
+
+Step1: Start
+Step2: Declare manager details
+Step3: Read the manager duties(employee time schedules, food item is placed in a proper or not, checking the payments,)
+Step4: stop
+
+
+Billing
+-------
+
+
+Step1: Start
+Step2: Declare billing
+Step3: Read the billing details
+Step4: Customer will choose the payments method like online transactions, Card, cash
+Step5: Customer will pay the bill
+Step6: Waiter will ask to give the feedback(good/bad)
+Step7: Stop

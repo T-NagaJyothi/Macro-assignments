@@ -1,0 +1,76 @@
+Macro assignment "ATM Operation" 
+
+modules for ATM operations
+
+
+1.withdraw
+2.mini statement
+3.checking balance
+4.deposite money
+5.pin generation
+
+
+1)how to withdraw money from an ATM
+ 
+step 1: start
+step 2: insert atm card 
+step 3: enter pin and validate the pin
+step 4: if the pin is valid and selecte the language,otherwise pin is invalid
+step 5: select the type of the transaction (Withdrawal)
+step 6: select the type of the Account (savings/current)
+step 7: Enter the withdrawl amount
+step 8: if the amount entered is present in the account Collect your cash , otherwise show insufficient balance 
+step 9: take a printed receipt(if needed)
+step 10: stop
+
+2)algorithm for mini statement from atm
+
+step1:start
+step2:insert the atm card into the atm
+step3:enter the pin and validate the pin
+step4:if the pin is valid select the option mini statement to show your recent transaction history print the mini statement
+step5:otherwise print invalid pin number 
+step6:stop
+
+3)Algorithm for checking Bank balance process
+
+step1:start
+step2:insert atm card 
+step3:enter the pin number and validate the pin
+step4:if the pin is valid select the language,otherwise display incorrect pin
+step5:select the option balance enquiry so that user know the balance in the account
+step6:display the balance amount
+step7:stop
+
+ 
+
+4)Algorithm for Deposit Money 
+ 
+step 1: start
+step 2: insert the ATM card  
+step 3: enter the 4-Digit Pin
+step 4: if the pin is  validate select the language
+step 5: select the type of transaction (deposit)
+step 6: enter the deposit  money
+step 7: select the type of account (Current or savings)
+step 8: deposited successfully
+step 9: take receipt(if needed)
+step 10: stop
+
+
+5)pin generation process :
+
+step 1: start
+step 2: insert atm card
+step 3: select the option green pin  
+step 4: display two options 1.validation OTP, 2.verification OTP
+step 5: select the option validation OTP so that user receives the OTP 
+step 6: if entered  OTP  is validate 
+step 7: OTP validation is successfull 
+step 8: othewise entered OTP is Invalid
+step 9: Enter  your 4-Digit Pin number 
+step 10: conform your 4-Digit pin 
+step 11: pin generation successfull
+step 12: stop
+ 
+
